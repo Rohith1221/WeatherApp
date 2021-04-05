@@ -119,10 +119,18 @@ img{
   font-size: 25px;
 }
 
-
+/* 
 .footer{
   position: relative;
   bottom: -700px;
+  text-align: center;
+} */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
   text-align: center;
 }
 /* .images{
